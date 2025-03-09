@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part01/Week04/cppImplement/build",
+  "command": "/usr/bin/g++  -I/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part01/Week04/cppImplement/include  -std=c++23 -Wall -Werror -pedantic -g -o CMakeFiles/main.dir/src/main.cpp.o -c /mnt/e/practice/h_programming_basis/Standford_Algorithm/Part01/Week04/cppImplement/src/main.cpp",
+  "file": "/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part01/Week04/cppImplement/src/main.cpp"
+},
+{
+  "directory": "/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part01/Week04/cppImplement/build",
+  "command": "/usr/bin/g++  -I/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part01/Week04/cppImplement/include  -std=c++23 -Wall -Werror -pedantic -g -o CMakeFiles/main.dir/src/kargerMinCut.cpp.o -c /mnt/e/practice/h_programming_basis/Standford_Algorithm/Part01/Week04/cppImplement/src/kargerMinCut.cpp",
+  "file": "/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part01/Week04/cppImplement/src/kargerMinCut.cpp"
+}
+]

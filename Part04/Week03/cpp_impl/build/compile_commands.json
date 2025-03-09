@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part04/Week03/cpp_impl/build",
+  "command": "/usr/bin/g++  -I/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part04/Week03/cpp_impl/include  -std=c++23 -pedantic -g -o CMakeFiles/main.dir/src/nn.cpp.o -c /mnt/e/practice/h_programming_basis/Standford_Algorithm/Part04/Week03/cpp_impl/src/nn.cpp",
+  "file": "/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part04/Week03/cpp_impl/src/nn.cpp"
+}
+]

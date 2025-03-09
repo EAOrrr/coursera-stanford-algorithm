@@ -1,0 +1,1 @@
+/usr/bin/g++  -std=c++23 -pedantic -g CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/graph.cpp.o -o main 

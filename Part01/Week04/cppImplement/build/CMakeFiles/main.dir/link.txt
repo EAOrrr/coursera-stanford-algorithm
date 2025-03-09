@@ -1,0 +1,1 @@
+/usr/bin/g++  -std=c++23 -Wall -Werror -pedantic -g CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/kargerMinCut.cpp.o -o main 

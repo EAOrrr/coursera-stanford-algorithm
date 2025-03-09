@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++23 -Wall -Werror -pedantic CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/cluster.cpp.o -o main 

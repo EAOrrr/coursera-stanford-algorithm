@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part04/Week04/build",
+  "command": "/usr/bin/g++  -I/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part04/Week04/include  -std=c++23 -pedantic -g -o CMakeFiles/main.dir/src/main.cpp.o -c /mnt/e/practice/h_programming_basis/Standford_Algorithm/Part04/Week04/src/main.cpp",
+  "file": "/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part04/Week04/src/main.cpp"
+},
+{
+  "directory": "/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part04/Week04/build",
+  "command": "/usr/bin/g++  -I/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part04/Week04/include  -std=c++23 -pedantic -g -o CMakeFiles/main.dir/src/graph.cpp.o -c /mnt/e/practice/h_programming_basis/Standford_Algorithm/Part04/Week04/src/graph.cpp",
+  "file": "/mnt/e/practice/h_programming_basis/Standford_Algorithm/Part04/Week04/src/graph.cpp"
+}
+]
